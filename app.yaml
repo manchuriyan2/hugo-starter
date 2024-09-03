@@ -1,0 +1,6 @@
+domains:
+- hugo-starter-manchuriyan2.wasmer.app
+kind: wasmer.io/App.v0
+name: manchuriyan2-hugo-starter
+owner: manchuriyan2
+package: .
